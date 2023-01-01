@@ -1,0 +1,424 @@
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\EndProjectC.dll.config
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\EndProjectC.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\EndProjectC.pdb
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\csc.exe
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\csc.exe.config
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\csc.rsp
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\csi.exe
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\csi.exe.config
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\csi.rsp
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.AppContext.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Console.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.IO.Compression.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Net.Http.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.ValueTuple.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\vbc.exe
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\vbc.exe.config
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\vbc.rsp
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\VBCSCompiler.exe
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\Newtonsoft.Json.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\System.Net.Http.Formatting.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\System.Web.Http.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\System.Web.Http.WebHost.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\Newtonsoft.Json.xml
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\System.Net.Http.Formatting.xml
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\System.Web.Http.xml
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\System.Web.Http.WebHost.xml
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csprojAssemblyReference.cache
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.CoreCompileInputs.cache
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.CopyComplete
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\obj\Debug\EndProjectC.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\obj\Debug\EndProjectC.pdb
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\System.Web.Cors.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\System.Web.Http.Cors.dll
+C:\Users\TOUR OLAM\Documents\giti\angular\projects\EndProjectC\EndProjectC\bin\System.Web.Http.Cors.xml
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csprojAssemblyReference.cache
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.CoreCompileInputs.cache
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\obj\Debug\EndProjectC.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\obj\Debug\EndProjectC.pdb
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\EndProjectC.dll.config
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\EndProjectC.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\EndProjectC.pdb
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\csc.exe
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\csc.exe.config
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\csc.rsp
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\csi.exe
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\csi.exe.config
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\csi.rsp
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.AppContext.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Collections.Immutable.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Console.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Globalization.Calendars.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.IO.Compression.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.IO.FileSystem.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Net.Http.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Net.Sockets.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Reflection.Metadata.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.ValueTuple.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XPath.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\vbc.exe
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\vbc.exe.config
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\vbc.rsp
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\VBCSCompiler.exe
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\roslyn\VBCSCompiler.exe.config
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\Newtonsoft.Json.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\System.Net.Http.Formatting.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\System.Web.Cors.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\System.Web.Http.Cors.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\System.Web.Http.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\System.Web.Http.WebHost.dll
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\System.Web.Http.Cors.xml
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\Newtonsoft.Json.xml
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\System.Net.Http.Formatting.xml
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\System.Web.Http.xml
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\System.Web.Http.WebHost.xml
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\users\user1\Desktop\שיעורים בקורונה\פרוייקטים באנגולר\גיטי פדר\EndProjectC\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.CopyComplete
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\EndProjectC.dll.config
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\EndProjectC.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\EndProjectC.pdb
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\csc.exe
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\csc.exe.config
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\csc.rsp
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\csi.exe
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\csi.exe.config
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\csi.rsp
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.AppContext.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Collections.Immutable.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Console.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Globalization.Calendars.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.IO.Compression.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.IO.FileSystem.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Net.Http.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Net.Sockets.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Reflection.Metadata.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.ValueTuple.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XPath.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\vbc.exe
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\vbc.exe.config
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\vbc.rsp
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\VBCSCompiler.exe
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\roslyn\VBCSCompiler.exe.config
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\Newtonsoft.Json.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\System.Net.Http.Formatting.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\System.Web.Cors.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\System.Web.Http.Cors.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\System.Web.Http.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\System.Web.Http.WebHost.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\System.Web.Http.Cors.xml
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\Newtonsoft.Json.xml
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\System.Net.Http.Formatting.xml
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\System.Web.Http.xml
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\System.Web.Http.WebHost.xml
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csprojAssemblyReference.cache
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.CoreCompileInputs.cache
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.CopyComplete
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\obj\Debug\EndProjectC.dll
+D:\users\user1\Desktop\שיעורים בקורונה\אנגולר וולף תשפב\שרת למתכונים אלקיים\EndProjectC\EndProjectC\obj\Debug\EndProjectC.pdb
+W:\כתות ו\התמחויות\הנדסת תוכנה\מורות\angular\פרוייקט\שרת למתכונים אלקיים\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csprojAssemblyReference.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\מורות\angular\פרוייקט\שרת למתכונים אלקיים\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.CoreCompileInputs.cache
+W:\כתות ו\התמחויות\הנדסת תוכנה\מורות\angular\פרוייקט\שרת למתכונים אלקיים\EndProjectC\EndProjectC\obj\Debug\EndProjectC.dll
+W:\כתות ו\התמחויות\הנדסת תוכנה\מורות\angular\פרוייקט\שרת למתכונים אלקיים\EndProjectC\EndProjectC\obj\Debug\EndProjectC.pdb
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csprojAssemblyReference.cache
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.CoreCompileInputs.cache
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\obj\Debug\EndProjectC.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\obj\Debug\EndProjectC.pdb
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\EndProjectC.dll.config
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\EndProjectC.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\EndProjectC.pdb
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\csc.exe
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\csc.exe.config
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\csc.rsp
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\csi.exe
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\csi.exe.config
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\csi.rsp
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Managed.Core.targets
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.AppContext.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Collections.Immutable.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Console.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Globalization.Calendars.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.IO.Compression.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.IO.FileSystem.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Net.Http.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Net.Sockets.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Reflection.Metadata.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.ValueTuple.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XmlDocument.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XPath.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\vbc.exe
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\vbc.exe.config
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\vbc.rsp
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\VBCSCompiler.exe
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\roslyn\VBCSCompiler.exe.config
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\Newtonsoft.Json.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\System.Net.Http.Formatting.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\System.Web.Cors.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\System.Web.Http.Cors.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\System.Web.Http.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\System.Web.Http.WebHost.dll
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\System.Web.Http.Cors.xml
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\Newtonsoft.Json.xml
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\System.Net.Http.Formatting.xml
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\System.Web.Http.xml
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\System.Web.Http.WebHost.xml
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\אנגולר\שרת מתוכן לעבודה\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.CopyComplete
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\EndProjectC.dll.config
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\EndProjectC.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\EndProjectC.pdb
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\csc.exe
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\csi.exe
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Net.Http.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\System.Net.Http.Formatting.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\System.Web.Cors.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\System.Web.Http.Cors.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\System.Web.Http.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\System.Web.Http.WebHost.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\System.Web.Http.Cors.xml
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\System.Net.Http.Formatting.xml
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\System.Web.Http.xml
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\System.Web.Http.WebHost.xml
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.CopyComplete
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\obj\Debug\EndProjectC.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\angular\לפרויקט\EndProjectC\EndProjectC\obj\Debug\EndProjectC.pdb
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\EndProjectC.dll.config
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\EndProjectC.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\EndProjectC.pdb
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\csc.exe
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\csc.exe.config
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\csc.rsp
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\csi.exe
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\csi.exe.config
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\csi.rsp
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.AppContext.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Collections.Immutable.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Console.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Globalization.Calendars.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.IO.Compression.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.IO.FileSystem.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Net.Http.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Net.Sockets.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Reflection.Metadata.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.ValueTuple.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XPath.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\vbc.exe
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\vbc.exe.config
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\vbc.rsp
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\VBCSCompiler.exe
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\roslyn\VBCSCompiler.exe.config
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\Newtonsoft.Json.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\System.Net.Http.Formatting.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\System.Web.Cors.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\System.Web.Http.Cors.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\System.Web.Http.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\System.Web.Http.WebHost.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\System.Web.Http.Cors.xml
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\Newtonsoft.Json.xml
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\System.Net.Http.Formatting.xml
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\System.Web.Http.xml
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\System.Web.Http.WebHost.xml
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.AssemblyReference.cache
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\obj\Debug\EndProjectC.csproj.CopyComplete
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\obj\Debug\EndProjectC.dll
+D:\תכנות\שנה ב\angular\פרוייקט\EndProjectC\EndProjectC\obj\Debug\EndProjectC.pdb
