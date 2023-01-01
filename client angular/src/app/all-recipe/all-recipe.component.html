@@ -1,0 +1,31 @@
+
+<!-- <div *ngFor="let r of arr">
+{{r.Name}}
+
+</div> -->
+<img src="../../assets/images/הורדה.png" style="position:absolute;left: 85%;top:10%;width: 240px;" class="logo">
+
+<div class="designe">
+  
+  <p>מתכונים</p><h4>-------</h4>
+    <div style="position: relative;right: 85%;bottom: 20%;width: 100px;">
+     
+
+
+        <mat-form-field appearance="fill">
+          <mat-label>סנן לפי קטגוריה</mat-label>
+          <mat-select [(ngModel)]="id">
+            <mat-option value="0">הכל</mat-option>
+            <mat-option *ngFor="let i of categorys" value="{{i.Id}}">
+              {{i.Name}}
+            </mat-option>
+          </mat-select>
+        </mat-form-field>
+       </div>
+
+</div>
+<div class="main">
+    
+<div *ngFor="let i of arr|filter:id">
+<app-small-recipe [recipe1]="i"></app-small-recipe>
+</div></div>

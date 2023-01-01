@@ -1,0 +1,65 @@
+<img src="../../assets/images/login.png" class="logini">
+<img src="../../assets/images/הורדה.png" class="logo">
+<div class="login2" >
+    <form (ngSubmit)="f.valid?add():v()"  #f="ngForm">
+      <h2> טופס הצטרפות לאתר שלנו</h2>
+
+<div class="input">
+      <input type="text" id="name" name="name" placeholder="שם: " class="form-control"
+      required minlength="4" 
+      [(ngModel)]="user.Name" #name="ngModel">
+<div *ngIf="name.invalid && (name.dirty || name.touched)"
+    class="alert">
+
+  <div *ngIf="name.errors?.['required']" style="color: red;">
+    שדה זה חובה*
+  </div>
+  <div *ngIf="name.errors?.['minlength']">
+   שם חייב להכיל לפחות 4 אותיות
+  </div>
+
+</div></div>
+
+<div class="input">
+  <input type="text" id="name1" name="name1" placeholder="כתובת: " class="form-control"
+  required minlength="4" 
+  [(ngModel)]="user.Address" #name1="ngModel">
+<div *ngIf="name1.invalid && (name1.dirty || name1.touched)"
+class="alert">
+
+<div *ngIf="name1.errors?.['required']" style="color: red;">
+שדה זה חובה*
+</div>
+<div *ngIf="name1.errors?.['minlength']">
+כתובת חייבת להכיל לפחות 4 אותיות
+</div>
+
+</div></div>
+      <div class="input">
+        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="אמייל" [(ngModel)]="user.Mail" name="m">   
+      </div>
+
+<div class="input">
+  <input type="password" id="pas" name="pas" placeholder="סיסמא: " class="form-control"
+  required minlength="4" 
+  [(ngModel)]="user.Password" #pas="ngModel">
+<div *ngIf="pas.invalid && (pas.dirty || pas.touched)"
+class="alert">
+
+<div *ngIf="pas.errors?.['required']" style="color: red;">
+שדה זה חובה*
+</div>
+<div *ngIf="pas.errors?.['minlength']">
+סיסמא חייבת להכיל לפחות 4 תוים
+</div>
+
+</div></div>
+      <button type="submit" class="btn btn-dark">הרשמה</button>
+      <div *ngIf="vv">
+        הטופס לא תקין
+      </div>
+    </form></div>
+<div *ngIf="ok1" class="ok">
+  <h2>תודה על הצטרפותך לאתר שלנו</h2>
+  <input type="button" value="אישור" (click)="ok()">
+</div>

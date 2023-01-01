@@ -1,0 +1,24 @@
+<!-- <nav class="nav">
+     <ul   > 
+      <div> <a routerLink="allRecipe">כל המתכונים</a> </div>
+      <div> <a routerLink="add">הוספת מתכון</a> </div>
+      <div> <a routerLink="login">כניסה</a> </div> 
+      <div> <a routerLink="enter">הרשמה</a> </div> 
+
+      <div>{{name}}</div>
+
+  </nav> -->
+
+<nav mat-tab-nav-bar class="nav">
+  <a mat-tab-link (click)="activeLink = 1" [active]="activeLink == 1" routerLink="allRecipe">כל המתכונים </a>
+  <a mat-tab-link (click)="activeLink = 2" [active]="activeLink == 2" routerLink="add">הוספת מתכון</a>
+  <a mat-tab-link (click)="activeLink = 3" [active]="activeLink == 3" routerLink="login">כניסה</a>
+  <a mat-tab-link (click)="activeLink = 4" [active]="activeLink == 4" routerLink="enter">הרשמה</a>
+
+  <div class="userName">{{user.Name}}</div>
+</nav>
+
+
+<div class="r">
+<router-outlet></router-outlet>
+</div>

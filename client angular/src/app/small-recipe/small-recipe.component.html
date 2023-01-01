@@ -1,0 +1,19 @@
+
+<mat-card class="example-card" >
+  <mat-card-header>
+   
+   
+  </mat-card-header>
+  
+  <img  src="../../assets/images/{{recipe1.Image}}" style="height: 250px;width:400px ;position: relative;left: 16px;" alt="Photo of a Shiba Inu">
+  <mat-card-content style=" height: 200px;">
+    <h2 class="card-title">{{recipe1.Name}}</h2>
+    <p class="card-text">זמן הכנה: {{recipe1.PreparationTimeInMinute|time}} <b>|</b>
+  רמת קושי: {{recipe1.Level|icon }}    <b> | </b>
+    <img src="{{recipe1.CategoryId|iconc}}">   </p>
+    <button mat-raised-button class="allr" (click)="print1()">למתכון המלא</button>
+   
+    <!-- <input  (click)="print1()" type="button" value="למתכון המלא"> -->
+  </mat-card-content>
+ 
+</mat-card>

@@ -1,0 +1,18 @@
+<div class="designe">
+    <button type="button" mat-raised-button class="allr" style="position: relative;left:39%;top:27%" (click)="delete()">מחק מתכון</button>
+
+<h1>{{recipe2.Name}}</h1>
+</div>
+<div>
+ <img src="../../assets/images/{{recipe2.Image}}" >
+</div>
+<div  class="Materials">
+   <h2> <b>החומרים:</b></h2>
+    <ul *ngFor="let i of recipe2.Layers">
+        <p><u><b>{{i.Description}}</b></u></p>
+        <li *ngFor="let j of i.Components">{{j}}</li>
+        
+    </ul>
+   <h2><b>אופן ההכנה:</b></h2> 
+        <ul *ngFor="let i of recipe2.Preparation">{{i}}</ul>
+</div>

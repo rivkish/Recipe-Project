@@ -1,0 +1,39 @@
+<!-- <div>
+    <input type="text" placeholder="הכנס שם משתמש">
+    <input type="password" placeholder="הכנס סיסמא">
+    <input type="button" value="התחברות">
+</div> -->
+<img src="../../assets/images/login.png" class="logini">
+<img src="../../assets/images/הורדה.png" class="logo">
+
+<h1>היכנס לחשבון שלך</h1>
+<div class="login1">
+<form (ngSubmit)="check2()">
+    <h2>עם כתובת האמייל שלך</h2>
+    <div class="mb-3">
+      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="אמייל" [(ngModel)]="user.Mail" name="m">   
+    </div>
+    <div class="mb-3">
+      <input type="password" class="form-control"  placeholder="סיסמא" [(ngModel)]="user.Password" name="p">
+    </div>
+    <p *ngIf="ok2" style="color:red">*סיסמא שגויה </p>
+    <button type="submit" class="btn btn-dark">  התחברות  </button>
+  </form>
+</div>
+
+<div class="login2" id="conect">
+  <form (ngSubmit)="check()">
+    <h2>עם שם המשתמש שלך</h2>
+    <div class="mb-3">
+      <input type="text" class="form-control"  aria-describedby="emailHelp" placeholder="שם משתמש" [(ngModel)]="user.Name" name="n">     
+    </div>
+    <div class="mb-3">
+      <input type="password" class="form-control" id="exampleInputPassword1" placeholder="סיסמא" [(ngModel)]="user.Password" name="p1">
+    </div>
+    <p *ngIf="ok" style="color:red">*סיסמא שגויה </p>
+    <button type="submit" class="btn btn-dark">התחברות</button>
+  </form></div>
+  <div style="position: absolute;right: 27%;bottom: 12%;">
+    <h2 style="width: 100%;"> להתנתקות<a (click)="disconct()" style="color: rgb(107,160, 245); cursor: pointer;"> לחץ כאן</a></h2>
+    </div> 
+   <!-- {{user|json}} -->

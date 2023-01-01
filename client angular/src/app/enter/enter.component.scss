@@ -1,0 +1,61 @@
+
+.login2{
+    border-radius: 6%;
+   background-color: #f0f0f0; 
+    width:30%  ;
+    height: 70%;
+    position: absolute;
+    top :30vh;
+    right: 17vw;
+font-size: 130%;
+text-align: center;
+
+}
+h2{
+    margin: 5%;
+    font-size: 150%;
+}
+
+.input{
+   
+    border-radius: 0%;
+margin: 10%;
+   background-color: #f0f0f0;  
+   width: 80%;
+   left: 10%;
+     
+}
+.mat-card-image {
+    width: calc(100% + 32px);
+    margin: 0 -16px 16px -16px;
+    height: 250px;
+}
+input{
+   background-color: #f0f0f0;  
+    border-bottom:solid 1px black;
+   border-top:#f0f0f0;  
+   border-right:#f0f0f0;  
+   border-left:#f0f0f0;
+}
+.logini{
+   left: 0%;
+    position:absolute;
+}
+.logo{
+position: absolute;
+   top: 100px;
+right: 40px;
+}
+.ok{
+    border-radius: 6%;
+    text-align: center;
+    position: absolute;
+    width: 20%;
+    height: 15%;
+    background-color: rgb(199, 199, 199);
+    top:42%;
+    right: 30%;
+}
+.ok input{
+    width: 30%;
+}

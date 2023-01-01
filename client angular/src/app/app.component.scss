@@ -1,0 +1,36 @@
+.nav{
+    
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: space-between;
+background-color:rgb(243, 122, 33);
+height: 8%;
+--bs-bg-opacity: 1;
+text-align: center;
+position: fixed;
+box-shadow: grey;
+width: 100%;
+z-index: 5000;
+top:0;
+left: 0;
+// background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+}
+.r{
+   margin-top: 8vh;
+}
+.mat-tab-link{
+    height: 67px;
+    color:black;
+    position: relative;
+    width: 20%;
+font-size: 188%;
+}
+.userName{
+    position: absolute;
+    text-align: center;
+    font-size: 188%;
+    left: 9%;
+    top: 31%;
+}
