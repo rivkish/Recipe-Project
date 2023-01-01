@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\project\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\project\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\project\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\project\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\project\DAL\obj\Debug\netcoreapp3.1\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\project\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\project\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\project\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\project\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\ADMIN\Documents\תכנות למידה מרחוק\project\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
